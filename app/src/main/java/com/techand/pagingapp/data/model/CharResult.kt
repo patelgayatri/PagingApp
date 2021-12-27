@@ -2,7 +2,7 @@ package com.techand.pagingapp.data.model
 
 import android.webkit.WebStorage
 
-data class  Result(
+data class  CharResult(
     val created: String,
     val episode: List<String>,
     val gender: String,
